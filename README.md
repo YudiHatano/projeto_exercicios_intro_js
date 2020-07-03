@@ -1,2 +1,4 @@
-# projeto_exercicios_intro_js
-Exercícios de reintegração pessoal para o JavaScript
+# PROJETO CURSO ALGORITIMO 1
+
+
+### Exercícios de reintegração pessoal para o JavaScript

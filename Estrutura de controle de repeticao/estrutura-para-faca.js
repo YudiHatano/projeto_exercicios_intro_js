@@ -4,7 +4,7 @@ function acaoBotao() {
     numero = prompt("Qual numero vc quer que seja calculado?")
     fatorial = 1
 
-    for ( var contador = 1; contador <= numero; contador++) { //<--------------------------------------------------
+    for ( var contador = 1; contador <= numero; contador++) { //<-------------------------------------------------
         fatorial = fatorial * contador
     }
 
